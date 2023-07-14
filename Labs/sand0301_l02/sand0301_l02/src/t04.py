@@ -1,0 +1,15 @@
+"""
+-------------------------------------------------------
+Lab 02 Task 04
+-------------------------------------------------------
+Author:  Ranjot Sandhu
+ID:      169020301
+Email:   sand0301@mylaurier.ca
+__updated__ = "2023-05-23"
+-------------------------------------------------------
+"""
+from utilities import stack_test
+
+source = list(range(1, 101))
+
+stack_test(source)

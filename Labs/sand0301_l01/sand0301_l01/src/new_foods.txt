@@ -1,0 +1,2 @@
+Milk|2|False|130
+Sandwich|0|True|500
