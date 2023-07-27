@@ -2,9 +2,9 @@
 -------------------------------------------------------
 Circular array version of the Queue ADT.
 -------------------------------------------------------
-Author:  David Brown
-ID:      123456789
-Email:   dbrown@wlu.ca
+Author:  Name
+ID:      ID
+Email:   Email
 __updated__ = "2023-05-07"
 -------------------------------------------------------
 """
