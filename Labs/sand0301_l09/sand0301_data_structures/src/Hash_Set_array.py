@@ -2,9 +2,9 @@
 -------------------------------------------------------
 Array-based list version of the Hash Set ADT.
 -------------------------------------------------------
-Author: Ranjot Sandhu
-ID:     190401010
-Email:  name1010@mylaurier.ca
+Author:  Name
+ID:      ID
+Email:   Email
 __updated__ = "2023-07-10"
 -------------------------------------------------------
 """
