@@ -3,10 +3,9 @@
 Stores a single letter of the alphabet, and counts occurrences and
 comparisons when the letter is used.
 -------------------------------------------------------
-Author:  David Brown
-ID:      999999999
-Email:   dbrown@wlu.ca
-Term:    Winter 2021
+Author:  Name
+ID:      ID
+Email:   Email
 __updated__ = "2021-03-18"
 -------------------------------------------------------
 """
