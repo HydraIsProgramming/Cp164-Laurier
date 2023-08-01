@@ -2,9 +2,9 @@
 -------------------------------------------------------
 Array versions of various sorts.
 -------------------------------------------------------
-Author:  Ranjot Sandhu
-ID:      169020301
-Email:   sand0301@mylaurier.ca
+Author:  Name
+ID:      ID
+Email:   Email
 __updated__ = "2023-07-25"
 -------------------------------------------------------
 """
